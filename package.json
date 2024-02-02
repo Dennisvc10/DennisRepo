@@ -9,8 +9,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "swa:start": "swa start app",
-    "swa:login": "swa deploy app",
-    "swa:deploy": "swa login"
+    "swa:login": "swa login",
+    "swa:deploy": "swa deploy app"
   },
   "private": true,
   "dependencies": {
